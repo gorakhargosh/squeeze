@@ -1,4 +1,5 @@
 *~
 squeeze/*.jar
+*.egg-info
 
 
