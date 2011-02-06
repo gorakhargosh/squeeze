@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="squeeze",
-    description="HTML Compressor packaged for Python",
+    description="HTML/JS/CSS Compressor packaged for Python",
     long_description=open('README').read(),
     author='Gora Khargosh',
     author_email='gora.khargosh@gmail.com',
