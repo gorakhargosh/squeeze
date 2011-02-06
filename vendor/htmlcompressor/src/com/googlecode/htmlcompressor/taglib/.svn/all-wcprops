@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/31/trunk/src/com/googlecode/htmlcompressor/taglib
+END
+JavaScriptCompressorTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/13/trunk/src/com/googlecode/htmlcompressor/taglib/JavaScriptCompressorTag.java
+END
+CssCompressorTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/13/trunk/src/com/googlecode/htmlcompressor/taglib/CssCompressorTag.java
+END
+XmlCompressorTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/31/trunk/src/com/googlecode/htmlcompressor/taglib/XmlCompressorTag.java
+END
+HtmlCompressorTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/31/trunk/src/com/googlecode/htmlcompressor/taglib/HtmlCompressorTag.java
+END
