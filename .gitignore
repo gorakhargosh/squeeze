@@ -1,5 +1,5 @@
 *~
 squeeze/*.jar
 *.egg-info
-
+dist/
 
