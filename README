@@ -1,0 +1,15 @@
+
+Squeeze
+=======
+
+HTML/CSS/JS Compressor packaged for Python.
+
+Installation
+------------
+
+	$ pip install squeeze
+
+Usage
+-----
+
+	$ squeeze --help
