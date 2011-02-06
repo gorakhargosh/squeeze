@@ -20,16 +20,15 @@ def main():
                 name, 
                 "-jar", 
                 get_html_compressor_jar_filename(), 
-                *sys.argv[1:]
+                *sys.argv[2:]
             )
         elif subcommand == "yuicompressor":
-            if subcommand == 'htmlcompressor':
-                os.execlp("java", 
-                    name, 
-                    "-jar", 
-                    get_yui_compressor_jar_filename(), 
-                    *sys.argv[1:]
-                )
+            os.execlp("java", 
+                name, 
+                "-jar", 
+                get_yui_compressor_jar_filename(), 
+                *sys.argv[2:]
+            )
         else:
             show_usage()
     else:

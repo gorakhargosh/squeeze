@@ -2,4 +2,4 @@
 squeeze/*.jar
 *.egg-info
 dist/
-
+build/
