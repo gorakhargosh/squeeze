@@ -3,11 +3,22 @@ PWD=`pwd`
 ANT=ant
 YUICOMPRESSOR_VERSION=2.4.4
 HTMLCOMPRESSOR_VERSION=0.9.9
+CSSEMBED_VERSION=0.3.3
+DATAURI_VERSION=0.2.2
 RM=rm -rf
 
 .PHONY: all clean
 
-all: squeeze/htmlcompressor.jar squeeze/yuicompressor.jar squeeze/yuicompressor-$(YUICOMPRESSOR_VERSION).jar
+all: squeeze/htmlcompressor.jar squeeze/cssembed.jar squeeze/datauri.jar squeeze/yuicompressor.jar squeeze/yuicompressor-$(YUICOMPRESSOR_VERSION).jar
+
+squeeze/cssembed.jar: vendor/cssembed/build/cssembed-$(CSSEMBED_VERSION).jar
+	cp $< $@
+
+squeeze/datauri.jar: vendor/cssembed/build/datauri-$(DATAURI_VERSION).jar
+	cp $< $@
+
+vendor/cssembed/build/cssembed-$(CSSEMBED_VERSION).jar vendor/cssembed/build/datauri-$(DATAURI_VERSION): vendor/cssembed/ant.properties
+	cd vendor/cssembed && ant && cd $(PWD)
 
 squeeze/htmlcompressor.jar: vendor/htmlcompressor-$(HTMLCOMPRESSOR_VERSION).jar
 	cp $< $@
@@ -24,3 +35,4 @@ vendor/yuicompressor/build/yuicompressor-$(YUICOMPRESSOR_VERSION).jar: vendor/yu
 clean:
 	$(RM) squeeze/*.jar
 	cd vendor/yuicompressor && ant clean && cd $(PWD)
+	cd vendor/cssembed && ant clean && cd $(PWD)
