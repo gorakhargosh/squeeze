@@ -1,3 +1,6 @@
 [submodule "vendor/yuicompressor"]
 	path = vendor/yuicompressor
 	url = git://github.com/yui/yuicompressor.git
+[submodule "vendor/cssembed"]
+	path = vendor/cssembed
+	url = git://github.com/nzakas/cssembed.git
