@@ -4,7 +4,7 @@ setup(
     name="squeeze",
     description="HTML/JS/CSS Compressor packaged for Python",
     long_description=open('README').read(),
-    author='Gora Khargosh',
+    author='Yesudeep Mangalapilly',
     author_email='gora.khargosh@gmail.com',
     version="0.1.2",
     url="http://pypi.python.org/pypi/squeeze",
