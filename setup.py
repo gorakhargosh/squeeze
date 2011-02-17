@@ -5,7 +5,7 @@ setup(
     description="HTML/JS/CSS Compressor packaged for Python",
     long_description=open('README').read(),
     author='Yesudeep Mangalapilly',
-    author_email='gora.khargosh@gmail.com',
+    author_email='yesudeep@gmail.com',
     version="0.1.2",
     url="http://pypi.python.org/pypi/squeeze",
     license='Public Domain',
