@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/799/trunk
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/640/trunk/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/48/trunk/.project
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/COPYING
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/786/trunk/README
+END
+CONTRIBUTORS
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/724/trunk/CONTRIBUTORS
+END
+closure-compiler.pom
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/786/trunk/closure-compiler.pom
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/691/trunk/build.xml
+END

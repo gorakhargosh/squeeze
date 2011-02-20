@@ -1,0 +1,971 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/798/trunk/test/com/google/javascript/jscomp
+END
+VariableShadowDeclarationCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/VariableShadowDeclarationCheckTest.java
+END
+ConvertToDottedPropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/ConvertToDottedPropertiesTest.java
+END
+DataFlowAnalysisTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/592/trunk/test/com/google/javascript/jscomp/DataFlowAnalysisTest.java
+END
+InlineFunctionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/685/trunk/test/com/google/javascript/jscomp/InlineFunctionsTest.java
+END
+ReplaceCssNamesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/761/trunk/test/com/google/javascript/jscomp/ReplaceCssNamesTest.java
+END
+DefinitionsRemoverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/DefinitionsRemoverTest.java
+END
+DefaultCodingConventionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/653/trunk/test/com/google/javascript/jscomp/DefaultCodingConventionTest.java
+END
+ControlFlowAnalysisTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/592/trunk/test/com/google/javascript/jscomp/ControlFlowAnalysisTest.java
+END
+CheckPropertyOrderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/766/trunk/test/com/google/javascript/jscomp/CheckPropertyOrderTest.java
+END
+GenerateExportsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/666/trunk/test/com/google/javascript/jscomp/GenerateExportsTest.java
+END
+CheckSideEffectsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/CheckSideEffectsTest.java
+END
+CompilerOptionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/CompilerOptionsTest.java
+END
+FunctionArgumentInjectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/FunctionArgumentInjectorTest.java
+END
+PeepholeFoldWithTypesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/PeepholeFoldWithTypesTest.java
+END
+SideEffectsAnalysisTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/SideEffectsAnalysisTest.java
+END
+GroupVariableDeclarationsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/GroupVariableDeclarationsTest.java
+END
+VariableVisibilityAnalysisTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/VariableVisibilityAnalysisTest.java
+END
+VariableReferenceCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/VariableReferenceCheckTest.java
+END
+GoogleCodingConventionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/653/trunk/test/com/google/javascript/jscomp/GoogleCodingConventionTest.java
+END
+JSModuleGraphTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/JSModuleGraphTest.java
+END
+CompilerTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/617/trunk/test/com/google/javascript/jscomp/CompilerTestCase.java
+END
+InlineVariablesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/InlineVariablesTest.java
+END
+LightweightMessageFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/LightweightMessageFormatterTest.java
+END
+SimpleFunctionAliasAnalysisTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/SimpleFunctionAliasAnalysisTest.java
+END
+CodePrinterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/CodePrinterTest.java
+END
+CollapsePropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/672/trunk/test/com/google/javascript/jscomp/CollapsePropertiesTest.java
+END
+FixedPointGraphTraversalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/592/trunk/test/com/google/javascript/jscomp/FixedPointGraphTraversalTest.java
+END
+ExpressionDecomposerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/ExpressionDecomposerTest.java
+END
+DevirtualizePrototypeMethodsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/643/trunk/test/com/google/javascript/jscomp/DevirtualizePrototypeMethodsTest.java
+END
+LooseTypeCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/731/trunk/test/com/google/javascript/jscomp/LooseTypeCheckTest.java
+END
+OptimizeReturnsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/664/trunk/test/com/google/javascript/jscomp/OptimizeReturnsTest.java
+END
+OptimizeParametersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/597/trunk/test/com/google/javascript/jscomp/OptimizeParametersTest.java
+END
+CrossModuleMethodMotionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/637/trunk/test/com/google/javascript/jscomp/CrossModuleMethodMotionTest.java
+END
+TypeInferenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/735/trunk/test/com/google/javascript/jscomp/TypeInferenceTest.java
+END
+AliasStringsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/AliasStringsTest.java
+END
+CollapseAnonymousFunctionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/CollapseAnonymousFunctionsTest.java
+END
+ObjectPropertyStringPostprocessTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/ObjectPropertyStringPostprocessTest.java
+END
+CompilerTypeTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/735/trunk/test/com/google/javascript/jscomp/CompilerTypeTestCase.java
+END
+SyntacticScopeCreatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/SyntacticScopeCreatorTest.java
+END
+RhinoErrorReporterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/RhinoErrorReporterTest.java
+END
+RemoveUnusedVarsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/767/trunk/test/com/google/javascript/jscomp/RemoveUnusedVarsTest.java
+END
+AliasKeywordsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/772/trunk/test/com/google/javascript/jscomp/AliasKeywordsTest.java
+END
+JsMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/JsMessageTest.java
+END
+TypeCheckFunctionCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/TypeCheckFunctionCheckTest.java
+END
+FunctionInjectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/FunctionInjectorTest.java
+END
+ConstCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/551/trunk/test/com/google/javascript/jscomp/ConstCheckTest.java
+END
+CheckGlobalThisTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/CheckGlobalThisTest.java
+END
+TypeValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/TypeValidatorTest.java
+END
+LinkedFlowScopeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/620/trunk/test/com/google/javascript/jscomp/LinkedFlowScopeTest.java
+END
+FlowSensitiveInlineVariablesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/FlowSensitiveInlineVariablesTest.java
+END
+RecordFunctionInformationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/RecordFunctionInformationTest.java
+END
+ClosureCodeRemovalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/ClosureCodeRemovalTest.java
+END
+CallGraphTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/CallGraphTest.java
+END
+JSCompilerSourceExcerptProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/JSCompilerSourceExcerptProviderTest.java
+END
+SpecializeModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/SpecializeModuleTest.java
+END
+NormalizeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/617/trunk/test/com/google/javascript/jscomp/NormalizeTest.java
+END
+InferJSDocInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/InferJSDocInfoTest.java
+END
+RenameVarsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/RenameVarsTest.java
+END
+PeepholeSubstituteAlternateSyntaxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/798/trunk/test/com/google/javascript/jscomp/PeepholeSubstituteAlternateSyntaxTest.java
+END
+InlineVariablesConstantsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/InlineVariablesConstantsTest.java
+END
+RemoveUnusedNamesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/RemoveUnusedNamesTest.java
+END
+MinimizeExitPointsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/MinimizeExitPointsTest.java
+END
+LiveVariableAnalysisTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/650/trunk/test/com/google/javascript/jscomp/LiveVariableAnalysisTest.java
+END
+NodeTraversalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/NodeTraversalTest.java
+END
+StrictModeCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/634/trunk/test/com/google/javascript/jscomp/StrictModeCheckTest.java
+END
+MakeDeclaredNamesUniqueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/MakeDeclaredNamesUniqueTest.java
+END
+ParallelCompilerPassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/ParallelCompilerPassTest.java
+END
+RenamePrototypesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/646/trunk/test/com/google/javascript/jscomp/RenamePrototypesTest.java
+END
+ClosureReverseAbstractInterpreterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/ClosureReverseAbstractInterpreterTest.java
+END
+CrossModuleCodeMotionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/CrossModuleCodeMotionTest.java
+END
+ExternExportsPassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/671/trunk/test/com/google/javascript/jscomp/ExternExportsPassTest.java
+END
+PeepholeOptimizationsPassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/PeepholeOptimizationsPassTest.java
+END
+ReplaceIdGeneratorsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/ReplaceIdGeneratorsTest.java
+END
+MemoizedScopeCreatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/MemoizedScopeCreatorTest.java
+END
+CheckAccessControlsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/CheckAccessControlsTest.java
+END
+NodeUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/NodeUtilTest.java
+END
+RemoveUnusedPrototypePropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/637/trunk/test/com/google/javascript/jscomp/RemoveUnusedPrototypePropertiesTest.java
+END
+ReplaceStringsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/705/trunk/test/com/google/javascript/jscomp/ReplaceStringsTest.java
+END
+OptimizeArgumentsArrayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/OptimizeArgumentsArrayTest.java
+END
+ProcessClosurePrimitivesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/761/trunk/test/com/google/javascript/jscomp/ProcessClosurePrimitivesTest.java
+END
+SimpleDefinitionFinderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/643/trunk/test/com/google/javascript/jscomp/SimpleDefinitionFinderTest.java
+END
+CreateSyntheticBlocksTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/CreateSyntheticBlocksTest.java
+END
+StripCodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/619/trunk/test/com/google/javascript/jscomp/StripCodeTest.java
+END
+AstParallelizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/AstParallelizerTest.java
+END
+ControlStructureCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/ControlStructureCheckTest.java
+END
+TypedScopeCreatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/793/trunk/test/com/google/javascript/jscomp/TypedScopeCreatorTest.java
+END
+CollapseVariableDeclarationsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/CollapseVariableDeclarationsTest.java
+END
+ChainCallsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/ChainCallsTest.java
+END
+DiagnosticGroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/DiagnosticGroupTest.java
+END
+CheckUnreachableCodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/CheckUnreachableCodeTest.java
+END
+MoveFunctionDeclarationsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/MoveFunctionDeclarationsTest.java
+END
+ObjectPropertyStringPreprocessTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/ObjectPropertyStringPreprocessTest.java
+END
+GatherRawExportsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/GatherRawExportsTest.java
+END
+NameAnonymousFunctionsMappedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/NameAnonymousFunctionsMappedTest.java
+END
+AmbiguatePropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/769/trunk/test/com/google/javascript/jscomp/AmbiguatePropertiesTest.java
+END
+JsMessageExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/JsMessageExtractorTest.java
+END
+GlobalNamespaceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/GlobalNamespaceTest.java
+END
+CommandLineRunnerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/CommandLineRunnerTest.java
+END
+MaybeReachingVariableUseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/592/trunk/test/com/google/javascript/jscomp/MaybeReachingVariableUseTest.java
+END
+ExtractPrototypeMemberDeclarationsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/ExtractPrototypeMemberDeclarationsTest.java
+END
+CheckMissingGetCssNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/CheckMissingGetCssNameTest.java
+END
+JSModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/JSModuleTest.java
+END
+VarCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/VarCheckTest.java
+END
+BasicErrorManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/BasicErrorManagerTest.java
+END
+NameAnalyzerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/729/trunk/test/com/google/javascript/jscomp/NameAnalyzerTest.java
+END
+MarkNoSideEffectCallsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/MarkNoSideEffectCallsTest.java
+END
+ProcessTweaksTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/692/trunk/test/com/google/javascript/jscomp/ProcessTweaksTest.java
+END
+CheckRequiresForConstructorsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/CheckRequiresForConstructorsTest.java
+END
+CheckAccidentalSemicolonTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/CheckAccidentalSemicolonTest.java
+END
+InstrumentFunctionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/InstrumentFunctionsTest.java
+END
+DeadAssignmentsEliminationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/685/trunk/test/com/google/javascript/jscomp/DeadAssignmentsEliminationTest.java
+END
+PeepholeFoldConstantsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/791/trunk/test/com/google/javascript/jscomp/PeepholeFoldConstantsTest.java
+END
+ConcreteTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/674/trunk/test/com/google/javascript/jscomp/ConcreteTypeTest.java
+END
+PeepholeIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/798/trunk/test/com/google/javascript/jscomp/PeepholeIntegrationTest.java
+END
+PrepareAstTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/PrepareAstTest.java
+END
+CheckMissingReturnTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/CheckMissingReturnTest.java
+END
+CoalesceVariableNamesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/CoalesceVariableNamesTest.java
+END
+UnfoldCompoundAssignmentsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/UnfoldCompoundAssignmentsTest.java
+END
+FunctionNamesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/FunctionNamesTest.java
+END
+ExportTestFunctionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/ExportTestFunctionsTest.java
+END
+DotFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/DotFormatterTest.java
+END
+InlineSimpleMethodsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/635/trunk/test/com/google/javascript/jscomp/InlineSimpleMethodsTest.java
+END
+RenameLocalVarsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/RenameLocalVarsTest.java
+END
+AliasExternalsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/AliasExternalsTest.java
+END
+IgnoreCajaPropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/IgnoreCajaPropertiesTest.java
+END
+SuspiciousPropertiesCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/633/trunk/test/com/google/javascript/jscomp/SuspiciousPropertiesCheckTest.java
+END
+NodeIteratorsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/NodeIteratorsTest.java
+END
+CheckGlobalNamesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/628/trunk/test/com/google/javascript/jscomp/CheckGlobalNamesTest.java
+END
+MustBeReachingVariableDefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/592/trunk/test/com/google/javascript/jscomp/MustBeReachingVariableDefTest.java
+END
+CheckProvidesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/CheckProvidesTest.java
+END
+RenameLabelsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/RenameLabelsTest.java
+END
+UnreachableCodeEliminationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/UnreachableCodeEliminationTest.java
+END
+FunctionTypeBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/630/trunk/test/com/google/javascript/jscomp/FunctionTypeBuilderTest.java
+END
+CombinedCompilerPassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/CombinedCompilerPassTest.java
+END
+ReplaceMessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/ReplaceMessagesTest.java
+END
+ClosureCodingConventionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/751/trunk/test/com/google/javascript/jscomp/ClosureCodingConventionTest.java
+END
+ProcessDefinesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/628/trunk/test/com/google/javascript/jscomp/ProcessDefinesTest.java
+END
+ScopedAliasesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/ScopedAliasesTest.java
+END
+NameAnonymousFunctionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/NameAnonymousFunctionsTest.java
+END
+RuntimeTypeCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/RuntimeTypeCheckTest.java
+END
+VariableMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/VariableMapTest.java
+END
+PureFunctionIdentifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/655/trunk/test/com/google/javascript/jscomp/PureFunctionIdentifierTest.java
+END
+GatherSideEffectSubexpressionsCallbackTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/GatherSideEffectSubexpressionsCallbackTest.java
+END
+TightenTypesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/TightenTypesTest.java
+END
+CheckRegExpTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/CheckRegExpTest.java
+END
+RemoveTryCatchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/RemoveTryCatchTest.java
+END
+InlineCostEstimatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/InlineCostEstimatorTest.java
+END
+JsMessageVisitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/JsMessageVisitorTest.java
+END
+PhaseOptimizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/PhaseOptimizerTest.java
+END
+SanityCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/644/trunk/test/com/google/javascript/jscomp/SanityCheckTest.java
+END
+SemanticReverseAbstractInterpreterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/SemanticReverseAbstractInterpreterTest.java
+END
+DenormalizeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/DenormalizeTest.java
+END
+FunctionRewriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/FunctionRewriterTest.java
+END
+CompilerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/544/trunk/test/com/google/javascript/jscomp/CompilerTest.java
+END
+DisambiguatePropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/770/trunk/test/com/google/javascript/jscomp/DisambiguatePropertiesTest.java
+END
+TypeCheckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/793/trunk/test/com/google/javascript/jscomp/TypeCheckTest.java
+END
+FunctionToBlockMutatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/644/trunk/test/com/google/javascript/jscomp/FunctionToBlockMutatorTest.java
+END
+CheckPathsBetweenNodesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/592/trunk/test/com/google/javascript/jscomp/CheckPathsBetweenNodesTest.java
+END
+RenamePropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/646/trunk/test/com/google/javascript/jscomp/RenamePropertiesTest.java
+END
+StatementFusionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/778/trunk/test/com/google/javascript/jscomp/StatementFusionTest.java
+END
+PeepholeRemoveDeadCodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/797/trunk/test/com/google/javascript/jscomp/PeepholeRemoveDeadCodeTest.java
+END
