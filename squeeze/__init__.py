@@ -18,6 +18,10 @@ def get_cssembed_jar_filename():
     """Return the full path to the HTML Compressor Java archive."""
     return resource_filename(__name__, "cssembed.jar")
 
+def get_google_closure_compiler_jar_filename():
+    """Return the full path to the HTML Compressor Java archive."""
+    return resource_filename(__name__, "compiler.jar")
+
 def execute_jar_command(jar_file):
     name = sys.argv[0]
     os.execlp("java", 
@@ -30,22 +34,24 @@ def execute_jar_command(jar_file):
 def main():    
     if len(sys.argv) > 2:
         subcommand = sys.argv[1]
-        if subcommand == 'htmlcompressor':
-            execute_jar_command(get_html_compressor_jar_filename())
-        elif subcommand == "yuicompressor":
-            execute_jar_command(get_yui_compressor_jar_filename())
-        elif subcommand == "cssembed":
-            execute_jar_command(get_cssembed_jar_filename())
-        elif subcommand == "datauri":
-            execute_jar_command(get_datauri_jar_filename())
-        else:
+        command_map = {
+            'htmlcompressor': get_html_compressor_jar_filename(),
+            'yuicompressor': get_yui_compressor_jar_filename(),
+            'cssembed': get_cssembed_jar_filename(),
+            'datauri': get_datauri_jar_filename(),
+            'closure': get_google_closure_compiler_jar_filename(),
+        }
+        try:
+            jar_name = command_map[subcommand]
+            execute_jar_command(jar_name)
+        except KeyError:
             show_usage()
     else:
         show_usage()
 
 def show_usage():
     sys.stdout.write('''
-    Usage: squeeze [htmlcompressor|yuicompressor|cssembed|datauri] [options]
+    Usage: squeeze [htmlcompressor|yuicompressor|cssembed|datauri|closure] [options]
     ''')
     sys.exit(1)
 

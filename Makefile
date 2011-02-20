@@ -9,7 +9,13 @@ RM=rm -rf
 
 .PHONY: all clean
 
-all: squeeze/htmlcompressor.jar squeeze/cssembed.jar squeeze/datauri.jar squeeze/yuicompressor.jar squeeze/yuicompressor-$(YUICOMPRESSOR_VERSION).jar
+all: squeeze/htmlcompressor.jar squeeze/cssembed.jar squeeze/datauri.jar squeeze/compiler.jar squeeze/yuicompressor.jar squeeze/yuicompressor-$(YUICOMPRESSOR_VERSION).jar
+
+squeeze/compiler.jar: vendor/closure-compiler/build/compiler.jar
+	cp $< $@
+
+vendor/closure-compiler/build/compiler.jar:
+	cd vendor/closure-compiler && ant && cd $(PWD)
 
 squeeze/cssembed.jar: vendor/cssembed/build/cssembed-$(CSSEMBED_VERSION).jar
 	cp $< $@
@@ -36,3 +42,5 @@ clean:
 	$(RM) squeeze/*.jar
 	cd vendor/yuicompressor && ant clean && cd $(PWD)
 	cd vendor/cssembed && ant clean && cd $(PWD)
+	cd vendor/closure-compiler && ant clean && cd $(PWD)
+
