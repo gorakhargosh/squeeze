@@ -1,4 +1,3 @@
-
 Squeeze
 =======
 
@@ -11,5 +10,20 @@ Installation
 
 Usage
 -----
+So you want to use the YUICompressor?
+
+    $ squeeze yuicompressor --help
+
+How about the Google Closure Compiler?
+
+    $ squeeze closure --help
+    
+Ooh. What about CSSEmbed and HTML compressor?
+
+    $ squeeze cssembed --help
+    $ squeeze htmlcompressor --help
+
+Whee! More here:
 
 	$ squeeze --help
+
