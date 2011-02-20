@@ -6,7 +6,7 @@ HTML/CSS/JS Compressor packaged for Python.
 Installation
 ------------
 
-	$ pip install squeeze
+    $ pip install squeeze
 
 Usage
 -----
@@ -25,5 +25,5 @@ Ooh. What about CSSEmbed and HTML compressor?
 
 Whee! More here:
 
-	$ squeeze --help
+    $ squeeze --help
 
