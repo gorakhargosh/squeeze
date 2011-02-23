@@ -1,5 +1,5 @@
 include README
+include LICENSE
 include MANIFEST.in
 recursive-include squeeze *.jar
 recursive-include squeeze *.py
-
