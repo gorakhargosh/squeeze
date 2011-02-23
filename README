@@ -27,3 +27,9 @@ Whee! More here:
 
     $ squeeze --help
 
+Licensing
+---------
+Squeeze is released into the public domain. 3rd party libraries
+included with it, however, carry their own licensing.
+
+Please see the `LICENSE` file in the source code for more information.
