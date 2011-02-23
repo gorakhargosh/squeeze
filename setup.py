@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="squeeze",
-    description="HTML/JS/CSS Compressor packaged for Python",
+    description="Bundled HTML/JS/CSS compressor and data-uri embedding tools (YUICompressor, CSSEmbed, DataURI, Google Closure Compiler, HTMLCompressor)",
     long_description=open('README').read(),
     author='Yesudeep Mangalapilly',
     author_email='yesudeep@gmail.com',
