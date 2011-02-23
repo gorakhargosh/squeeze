@@ -6,7 +6,7 @@ Bundled HTML/CSS/JavaScript minifiers and data-uri embedding tools.
 Installation
 ------------
 You need Python and Java installed on your system to be able to use
-Squeeze. Installing squeeze itself is easy with `pip`:
+Squeeze. Installing squeeze itself is easy with [pip](http://pypi.python.org/pypi/pip):
 
     $ pip install squeeze
 
