@@ -1,14 +1,14 @@
 10
 
 dir
-68
+173
 http://htmlcompressor.googlecode.com/svn/trunk/doc/com/googlecode/htmlcompressor/compressor
 http://htmlcompressor.googlecode.com/svn
 
 
 
-2009-08-10T21:31:03.660047Z
-32
+2011-09-01T04:11:02.805044Z
+171
 serg472
 
 
@@ -26,16 +26,19 @@ serg472
 
 dfb84964-0bab-11de-a6e9-d320b29efae0
 
+class-use
+dir
+
 Compressor.html
 file
 
 
 
 
-2011-02-06T12:20:08.000000Z
-c6d5bf897ebcc2171e10ee371ccb8049
-2009-08-10T21:31:03.660047Z
-32
+2011-09-13T12:34:09.000000Z
+a904e935c8dbd452d77652fe31447790
+2011-09-01T04:11:02.805044Z
+171
 serg472
 has-props
 
@@ -58,7 +61,75 @@ has-props
 
 
 
-8811
+10505
+
+HtmlCompressorStatistics.html
+file
+
+
+
+
+2011-09-13T12:34:09.000000Z
+ef84f659e5e0f8865ca2a654089dd7ca
+2011-09-01T04:11:02.805044Z
+171
+serg472
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21010
+
+YuiCssCompressor.html
+file
+
+
+
+
+2011-09-13T12:34:09.000000Z
+36d6a39c233d9e4a7567fec4c3acce85
+2011-09-01T04:11:02.805044Z
+171
+serg472
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16981
 
 XmlCompressor.html
 file
@@ -66,10 +137,10 @@ file
 
 
 
-2011-02-06T12:20:08.000000Z
-5663929bf9348f0fc6c2c2479b3c0cf9
-2009-08-10T21:31:03.660047Z
-32
+2011-09-13T12:34:09.000000Z
+681adfe91aa4501f0915a1df5bbbf318
+2011-09-01T04:11:02.805044Z
+171
 serg472
 has-props
 
@@ -92,7 +163,41 @@ has-props
 
 
 
-16305
+19193
+
+ClosureJavaScriptCompressor.html
+file
+
+
+
+
+2011-09-13T12:34:09.000000Z
+5dcf5d5fd38c257f0486276de3cf4a34
+2011-09-01T04:11:02.805044Z
+171
+serg472
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+35522
 
 HtmlCompressor.html
 file
@@ -100,10 +205,10 @@ file
 
 
 
-2011-02-06T12:20:08.000000Z
-d79adc20cbbbb959869025f1f88f45c8
-2009-08-10T21:31:03.660047Z
-32
+2011-09-13T12:34:09.000000Z
+1f661305b66886fa77cf756241009564
+2011-09-01T04:11:02.805044Z
+171
 serg472
 has-props
 
@@ -126,7 +231,7 @@ has-props
 
 
 
-37451
+90819
 
 package-frame.html
 file
@@ -134,10 +239,10 @@ file
 
 
 
-2011-02-06T12:20:08.000000Z
-c397d730689f17749c4cfd6ee53d92d1
-2009-08-10T21:31:03.660047Z
-32
+2011-09-13T12:34:09.000000Z
+5a50751ae134d6502d84951d81298ff1
+2011-09-01T04:11:02.805044Z
+171
 serg472
 has-props
 
@@ -160,7 +265,41 @@ has-props
 
 
 
-1451
+2366
+
+package-use.html
+file
+
+
+
+
+2011-09-13T12:34:09.000000Z
+93441a868f687ba6e04d1425c19d99ba
+2011-09-01T04:11:02.805044Z
+171
+serg472
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7999
 
 package-summary.html
 file
@@ -168,10 +307,10 @@ file
 
 
 
-2011-02-06T12:20:08.000000Z
-b945acca5159abe43fca679cb42f241e
-2009-08-10T21:31:03.660047Z
-32
+2011-09-13T12:34:09.000000Z
+b13bdf07d482bb4dd9b263c2f425eb52
+2011-09-01T04:11:02.805044Z
+171
 serg472
 has-props
 
@@ -194,7 +333,7 @@ has-props
 
 
 
-7196
+10698
 
 package-tree.html
 file
@@ -202,10 +341,10 @@ file
 
 
 
-2011-02-06T12:20:08.000000Z
-016b5fc802a391ae9de8ff2c2d717b87
-2009-08-10T21:31:03.660047Z
-32
+2011-09-13T12:34:09.000000Z
+99bb6214d6d72059aa546ca81a74871c
+2011-09-01T04:11:02.805044Z
+171
 serg472
 has-props
 
@@ -228,5 +367,107 @@ has-props
 
 
 
-6953
+9782
+
+YuiJavaScriptCompressor.DefaultErrorReporter.html
+file
+
+
+
+
+2011-09-13T12:34:09.000000Z
+26d0ac3966fbd4d45f4243ab87305737
+2011-09-01T04:11:02.805044Z
+171
+serg472
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18856
+
+YuiJavaScriptCompressor.html
+file
+
+
+
+
+2011-09-13T12:34:09.000000Z
+7464b8356cd60c963344329a8343c44d
+2011-09-01T04:11:02.805044Z
+171
+serg472
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28491
+
+HtmlMetrics.html
+file
+
+
+
+
+2011-09-13T12:34:09.000000Z
+5a7f1697b1cf206a7a7cfe6e087ae24a
+2011-09-01T04:11:02.805044Z
+171
+serg472
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19814
 

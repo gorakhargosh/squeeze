@@ -1,14 +1,14 @@
 10
 
 dir
-68
+173
 http://htmlcompressor.googlecode.com/svn/trunk
 http://htmlcompressor.googlecode.com/svn
 
 
 
-2011-02-03T01:51:17.934089Z
-67
+2011-09-01T04:11:02.805044Z
+171
 serg472
 has-props
 
@@ -26,20 +26,17 @@ has-props
 
 dfb84964-0bab-11de-a6e9-d320b29efae0
 
-test
-dir
-
-htmlcompressor.tld
+LICENSE.txt
 file
 
 
 
 
-2011-02-06T12:20:09.000000Z
-9703d76bf7f333e2c0d180d7c90095e8
-2009-08-10T21:30:03.153541Z
-31
-serg472
+2011-09-13T12:36:06.000000Z
+3b83ef96387f14655fc854ddc3c6bd57
+2011-07-03T10:04:21.054064Z
+127
+alextunyk@gmail.com
 
 
 
@@ -61,25 +58,232 @@ serg472
 
 
 
-4161
+11358
+
+build-local.sh
+file
+
+
+
+
+2011-09-13T12:36:06.000000Z
+4d88b38bf054bcc9eb711e5818c403c3
+2011-07-03T10:04:21.054064Z
+127
+alextunyk@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+117
+
+build-snapshot.bat
+file
+
+
+
+
+2011-09-13T12:36:06.000000Z
+e5591616068c446536fcea25d730ac94
+2011-07-06T06:07:20.576711Z
+132
+alextunyk@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+105
+
+build-release.bat
+file
+
+
+
+
+2011-09-13T12:36:06.000000Z
+49cf2c652f39b13b016899255fa34e23
+2011-07-06T06:46:46.382316Z
+135
+alextunyk@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+144
+
+build.bat
+file
+
+
+
+
+2011-09-13T12:36:06.000000Z
+1d0b7557e141b351eef9007450d773fc
+2011-07-06T07:51:07.165513Z
+137
+alextunyk@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+123
 
 doc
 dir
 
+build-snapshot.sh
+file
+
+
+
+
+2011-09-13T12:36:06.000000Z
+a4be738eeebe9bb30e291a90ecf8f873
+2011-07-06T06:07:20.576711Z
+132
+alextunyk@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+116
+
+lib
+dir
+
+build-release.sh
+file
+
+
+
+
+2011-09-13T12:36:06.000000Z
+d774f5611d5d27daf8f9d0b9a229acee
+2011-07-06T06:46:46.382316Z
+135
+alextunyk@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+155
+
 src
 dir
 
-build.properties
+build.sh
 file
 
 
 
 
-2011-02-06T12:20:09.000000Z
-4a248b10591d5718dbbffdb4006956eb
-2011-02-03T01:51:17.934089Z
-67
-serg472
+2011-09-13T12:36:06.000000Z
+7c1392d6e59293a43aeae5f6b1e82b89
+2011-07-06T07:51:07.165513Z
+137
+alextunyk@gmail.com
 
 
 
@@ -101,18 +305,18 @@ serg472
 
 
 
-215
+134
 
-build.xml
+pom.xml
 file
 
 
 
 
-2011-02-06T12:20:09.000000Z
-be294ba8fed486e698156fa182721d44
-2010-12-30T18:23:00.519706Z
-65
+2011-09-13T12:36:06.000000Z
+cac7c178d544e0772e5e68c39778eece
+2011-09-01T04:11:02.805044Z
+171
 serg472
 
 
@@ -135,5 +339,73 @@ serg472
 
 
 
-3696
+11404
+
+README.txt
+file
+
+
+
+
+2011-09-13T12:36:06.000000Z
+d56f26b0182d058f762c7d7b6c92731a
+2011-07-03T16:03:47.227153Z
+128
+serg472
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1500
+
+build-local.bat
+file
+
+
+
+
+2011-09-13T12:36:06.000000Z
+3bdd4a6f2299f05611c1bd5cf2736d40
+2011-07-03T10:04:21.054064Z
+127
+alextunyk@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+106
 

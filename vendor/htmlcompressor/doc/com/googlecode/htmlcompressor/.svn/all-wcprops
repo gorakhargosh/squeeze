@@ -1,5 +1,41 @@
 K 25
 svn:wc:ra_dav:version-url
-V 56
-/svn/!svn/ver/32/trunk/doc/com/googlecode/htmlcompressor
+V 57
+/svn/!svn/ver/171/trunk/doc/com/googlecode/htmlcompressor
+END
+DefaultErrorReporter.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/94/trunk/doc/com/googlecode/htmlcompressor/DefaultErrorReporter.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/171/trunk/doc/com/googlecode/htmlcompressor/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/171/trunk/doc/com/googlecode/htmlcompressor/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/171/trunk/doc/com/googlecode/htmlcompressor/package-summary.html
+END
+CmdLineCompressor.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/171/trunk/doc/com/googlecode/htmlcompressor/CmdLineCompressor.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/171/trunk/doc/com/googlecode/htmlcompressor/package-tree.html
 END

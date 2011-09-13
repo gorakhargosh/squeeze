@@ -1,14 +1,14 @@
 10
 
 dir
-68
+173
 http://htmlcompressor.googlecode.com/svn/trunk/doc/com/googlecode/htmlcompressor/velocity
 http://htmlcompressor.googlecode.com/svn
 
 
 
-2009-08-10T21:31:03.660047Z
-32
+2011-09-01T04:11:02.805044Z
+171
 serg472
 
 
@@ -26,16 +26,19 @@ serg472
 
 dfb84964-0bab-11de-a6e9-d320b29efae0
 
+class-use
+dir
+
 XmlCompressorDirective.html
 file
 
 
 
 
-2011-02-06T12:20:09.000000Z
-bec56f06bc72bf4f3fcb5c6a1c9b4073
-2009-08-10T21:31:03.660047Z
-32
+2011-09-13T12:34:09.000000Z
+0b7fb1e006ba38c355bb4948fa3e9130
+2011-09-01T04:11:02.805044Z
+171
 serg472
 has-props
 
@@ -58,7 +61,7 @@ has-props
 
 
 
-16463
+18821
 
 HtmlCompressorDirective.html
 file
@@ -66,10 +69,10 @@ file
 
 
 
-2011-02-06T12:20:09.000000Z
-095cbe13e05728e77446f65a6911e3fd
-2009-08-10T21:31:03.660047Z
-32
+2011-09-13T12:34:09.000000Z
+82badeb23c14fa7ebdae78cc7086a943
+2011-09-01T04:11:02.805044Z
+171
 serg472
 has-props
 
@@ -92,7 +95,7 @@ has-props
 
 
 
-16834
+19194
 
 JavaScriptCompressorDirective.html
 file
@@ -100,10 +103,10 @@ file
 
 
 
-2011-02-06T12:20:09.000000Z
-a814a834dcf935cd321fbc203e0c7611
-2009-08-10T21:31:03.660047Z
-32
+2011-09-13T12:34:09.000000Z
+e2a9486ebe2ebfdc7148739cd13cc50a
+2011-09-01T04:11:02.805044Z
+171
 serg472
 has-props
 
@@ -126,7 +129,7 @@ has-props
 
 
 
-17169
+19623
 
 package-frame.html
 file
@@ -134,10 +137,10 @@ file
 
 
 
-2011-02-06T12:20:09.000000Z
-416d47f2bb9ba0cffd2de30f279ab44f
-2009-08-10T21:31:03.660047Z
-32
+2011-09-13T12:34:09.000000Z
+366467f33b85209a1b7b192ef62d129e
+2011-09-01T04:11:02.805044Z
+171
 serg472
 has-props
 
@@ -160,7 +163,7 @@ has-props
 
 
 
-1458
+1447
 
 CssCompressorDirective.html
 file
@@ -168,10 +171,10 @@ file
 
 
 
-2011-02-06T12:20:09.000000Z
-9664f245613ed207308dc8181b0772e5
-2009-08-10T21:31:03.660047Z
-32
+2011-09-13T12:34:09.000000Z
+49877c768453abee844aa4ee28993235
+2011-09-01T04:11:02.805044Z
+171
 serg472
 has-props
 
@@ -194,7 +197,41 @@ has-props
 
 
 
-16711
+19069
+
+package-use.html
+file
+
+
+
+
+2011-09-13T12:34:09.000000Z
+d04b2df9d1e18e8843b288d6ad1058f2
+2011-09-01T04:11:02.805044Z
+171
+serg472
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5903
 
 package-summary.html
 file
@@ -202,10 +239,10 @@ file
 
 
 
-2011-02-06T12:20:09.000000Z
-8e94c1626d3671aa01badad6645d085d
-2009-08-10T21:31:03.660047Z
-32
+2011-09-13T12:34:09.000000Z
+02b8ac3ff045ecdea0add521780e86d6
+2011-09-01T04:11:02.805044Z
+171
 serg472
 has-props
 
@@ -228,7 +265,7 @@ has-props
 
 
 
-7201
+7621
 
 package-tree.html
 file
@@ -236,10 +273,10 @@ file
 
 
 
-2011-02-06T12:20:09.000000Z
-972af12266b72af3615d7b252b8196d8
-2009-08-10T21:31:03.660047Z
-32
+2011-09-13T12:34:09.000000Z
+7e7d524d99b7c616bbe146e97c3c772e
+2011-09-01T04:11:02.805044Z
+171
 serg472
 has-props
 
@@ -262,5 +299,5 @@ has-props
 
 
 
-6930
+7560
 

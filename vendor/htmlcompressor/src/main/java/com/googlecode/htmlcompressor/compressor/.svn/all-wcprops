@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/171/trunk/src/main/java/com/googlecode/htmlcompressor/compressor
+END
+ClosureJavaScriptCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/129/trunk/src/main/java/com/googlecode/htmlcompressor/compressor/ClosureJavaScriptCompressor.java
+END
+HtmlCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/171/trunk/src/main/java/com/googlecode/htmlcompressor/compressor/HtmlCompressor.java
+END
+YuiJavaScriptCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/129/trunk/src/main/java/com/googlecode/htmlcompressor/compressor/YuiJavaScriptCompressor.java
+END
+HtmlMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/127/trunk/src/main/java/com/googlecode/htmlcompressor/compressor/HtmlMetrics.java
+END
+YuiCssCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/129/trunk/src/main/java/com/googlecode/htmlcompressor/compressor/YuiCssCompressor.java
+END
+Compressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/129/trunk/src/main/java/com/googlecode/htmlcompressor/compressor/Compressor.java
+END
+HtmlCompressorStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/127/trunk/src/main/java/com/googlecode/htmlcompressor/compressor/HtmlCompressorStatistics.java
+END
+XmlCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/129/trunk/src/main/java/com/googlecode/htmlcompressor/compressor/XmlCompressor.java
+END
