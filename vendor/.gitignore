@@ -1,1 +1,3 @@
 htmlcompressor/target/
+*.class
+
