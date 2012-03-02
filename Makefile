@@ -1,9 +1,9 @@
 
 PWD=`pwd`
 ANT=ant
-YUICOMPRESSOR_VERSION=2.4.4
-HTMLCOMPRESSOR_VERSION=0.9.9
-CSSEMBED_VERSION=0.3.3
+YUICOMPRESSOR_VERSION=2.4.8pre
+HTMLCOMPRESSOR_VERSION=1.5.3-SNAPSHOT
+CSSEMBED_VERSION=0.4.5
 DATAURI_VERSION=0.2.2
 RM=rm -rf
 
@@ -26,7 +26,7 @@ squeeze/datauri.jar: vendor/cssembed/build/datauri-$(DATAURI_VERSION).jar
 vendor/cssembed/build/cssembed-$(CSSEMBED_VERSION).jar vendor/cssembed/build/datauri-$(DATAURI_VERSION): vendor/cssembed/ant.properties
 	cd vendor/cssembed && ant && cd $(PWD)
 
-squeeze/htmlcompressor.jar: vendor/htmlcompressor-$(HTMLCOMPRESSOR_VERSION).jar
+squeeze/htmlcompressor.jar: vendor/htmlcompressor/target/htmlcompressor-$(HTMLCOMPRESSOR_VERSION).jar
 	cp $< $@
 
 squeeze/yuicompressor.jar: squeeze/yuicompressor-$(YUICOMPRESSOR_VERSION).jar
