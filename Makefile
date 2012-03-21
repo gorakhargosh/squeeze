@@ -9,10 +9,16 @@ RM=rm -rf
 
 .PHONY: all clean
 
-all: squeeze/htmlcompressor.jar squeeze/cssembed.jar squeeze/datauri.jar squeeze/compiler.jar squeeze/yuicompressor.jar squeeze/yuicompressor-$(YUICOMPRESSOR_VERSION).jar
+all: squeeze/htmlcompressor.jar squeeze/cssembed.jar squeeze/datauri.jar squeeze/compiler.jar squeeze/yuicompressor.jar squeeze/yuicompressor-$(YUICOMPRESSOR_VERSION).jar squeeze/closure-stylesheets.jar
 
 squeeze/compiler.jar: vendor/closure-compiler/build/compiler.jar
 	cp $< $@
+
+squeeze/closure-stylesheets.jar: vendor/closure-stylesheets/build/closure-stylesheets.jar
+	cp $< $@
+
+vendor/closure-stylesheets/build/closure-stylesheets.jar:
+	cd vendor/closure-stylesheets && ant && cd $(PWD)
 
 vendor/closure-compiler/build/compiler.jar:
 	cd vendor/closure-compiler && ant && cd $(PWD)
@@ -43,4 +49,4 @@ clean:
 	cd vendor/yuicompressor && ant clean && cd $(PWD)
 	cd vendor/cssembed && ant clean && cd $(PWD)
 	cd vendor/closure-compiler && ant clean && cd $(PWD)
-
+	cd vendor/closure-stylesheets && ant clean && cd $(PWD)

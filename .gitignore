@@ -3,3 +3,4 @@ squeeze/*.jar
 *.egg-info
 dist/
 build/
+.idea/
