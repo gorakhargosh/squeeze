@@ -4,3 +4,6 @@
 [submodule "vendor/cssembed"]
 	path = vendor/cssembed
 	url = git://github.com/nzakas/cssembed.git
+[submodule "vendor/closure-stylesheets"]
+	path = vendor/closure-stylesheets
+	url = https://code.google.com/p/closure-stylesheets/
