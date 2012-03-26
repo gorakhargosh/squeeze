@@ -8,7 +8,7 @@ CSSEMBED_VERSION=0.4.5
 DATAURI_VERSION=0.2.2
 RM=rm -rf
 
-.PHONY: all clean release help push
+.PHONY: all clean release help push push-google push-origin
 
 all: squeeze/htmlcompressor.jar squeeze/cssembed.jar squeeze/datauri.jar squeeze/compiler.jar squeeze/yuicompressor.jar squeeze/yuicompressor-$(YUICOMPRESSOR_VERSION).jar squeeze/closure-stylesheets.jar squeeze/SoyToJsSrcCompiler.jar
 
@@ -22,11 +22,13 @@ help:
 release: clean test upload-doc
 	python setup.py sdist upload
 
-push:
+push: push-origin push-google
+
+push-google:
 	@echo "Pushing repository to remote:google [code.google.com]"
 	@git push google master
-	@echo "Pushing repository to remote:github [github.com]"
-	@git push github master
+
+push-origin:
 	@echo "Pushing repository to remote:origin"
 	@git push origin master
 
