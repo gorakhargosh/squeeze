@@ -8,7 +8,7 @@ setup(
   long_description=open('README').read(),
   author='Yesudeep Mangalapilly',
   author_email='yesudeep@google.com',
-  version="0.1.6",
+  version="0.1.7",
   url="http://pypi.python.org/pypi/squeeze",
   license='MIT License',
   packages=find_packages(),
