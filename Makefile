@@ -10,7 +10,7 @@ RM=rm -rf
 
 .PHONY: all clean release help push
 
-all: squeeze/htmlcompressor.jar squeeze/cssembed.jar squeeze/datauri.jar squeeze/compiler.jar squeeze/yuicompressor.jar squeeze/yuicompressor-$(YUICOMPRESSOR_VERSION).jar squeeze/closure-stylesheets.jar
+all: squeeze/htmlcompressor.jar squeeze/cssembed.jar squeeze/datauri.jar squeeze/compiler.jar squeeze/yuicompressor.jar squeeze/yuicompressor-$(YUICOMPRESSOR_VERSION).jar squeeze/closure-stylesheets.jar squeeze/SoyToJsSrcCompiler.jar
 
 help:
 	@echo "Possible targets:"
@@ -63,9 +63,31 @@ squeeze/yuicompressor-$(YUICOMPRESSOR_VERSION).jar: vendor/yuicompressor/build/y
 vendor/yuicompressor/build/yuicompressor-$(YUICOMPRESSOR_VERSION).jar: vendor/yuicompressor/ant.properties
 	cd vendor/yuicompressor && ant && cd $(PWD)
 
+
+# Google Closure Templates
+squeeze/SoyToJsSrcCompiler.jar: vendor/closure-templates/build/SoyToJsSrcCompiler.jar
+	cp $< $@
+
+vendor/closure-templates/build/SoyToJsSrcCompiler.jar:
+	ant SoyToJsSrcCompiler
+
+vendor/closure-templates/build/soy.jar:
+	ant jar
+
+Vendor/closure-templates/build/javascript/soyutils.js vendor/closure-templates/build/javascript/soyutils_usegoog.js:
+	ant generated-soyutils
+
+vendor/closure-templates/build/SoyParseInfoGenerator.jar:
+	ant SoyParseInfoGenerator
+
+vendor/closure-templates/build/SoyMsgExtractor.jar:
+	ant SoyMsgExtractor
+
+
 clean:
 	$(RM) squeeze/*.jar
 	cd vendor/yuicompressor && ant clean && cd $(PWD)
 	cd vendor/cssembed && ant clean && cd $(PWD)
 	cd vendor/closure-compiler && ant clean && cd $(PWD)
 	cd vendor/closure-stylesheets && ant clean && cd $(PWD)
+	cd vendor/closure-templates && ant clean && cd $(PWD)

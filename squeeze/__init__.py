@@ -35,6 +35,10 @@ def get_google_closure_stylesheets_jar_filename():
   """Return the full path to the HTML Compressor Java archive."""
   return resource_filename(__name__, "closure-stylesheets.jar")
 
+def get_soy_to_js_src_jar_filename():
+  """Return the full path to the HTML Compressor Java archive."""
+  return resource_filename(__name__, "SoyToJsSrcCompiler.jar")
+
 
 def execute_jar_command(jar_file):
   name = sys.argv[0]
@@ -56,6 +60,7 @@ def main():
       'datauri': get_datauri_jar_filename(),
       'closure': get_google_closure_compiler_jar_filename(),
       'gss': get_google_closure_stylesheets_jar_filename(),
+      'soytojs': get_soy_to_js_src_jar_filename(),
       }
     try:
       jar_name = command_map[subcommand]
@@ -68,7 +73,7 @@ def main():
 
 def show_usage():
   sys.stdout.write('''
-    Usage: squeeze [htmlcompressor|yuicompressor|cssembed|datauri|closure|gss] [options]
+    Usage: squeeze [htmlcompressor|yuicompressor|cssembed|datauri|closure|gss|soytojs] [options]
     ''')
   sys.exit(1)
 
