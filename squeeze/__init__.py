@@ -51,7 +51,7 @@ def execute_jar_command(jar_file):
 
 
 def main():
-  if len(sys.argv) > 2:
+  if len(sys.argv) > 1 and not sys.stdin.isatty():
     subcommand = sys.argv[1]
     command_map = {
       'htmlcompressor': get_html_compressor_jar_filename(),
